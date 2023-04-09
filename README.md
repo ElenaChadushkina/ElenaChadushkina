@@ -1,4 +1,4 @@
-[![Header](https://github.com/ElenaChadushkina/ElenaChadushkina/blob/main/assets/Elena.png)
+![Header](https://github.com/ElenaChadushkina/ElenaChadushkina/blob/main/assets/Elena.png)
 
 About me
 
