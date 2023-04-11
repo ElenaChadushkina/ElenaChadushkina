@@ -13,6 +13,16 @@
 ![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=&logoColor=71b556)
 ![Header](https://img.shields.io/badge/Redmine-090909?style=for-the-badge&logo=Redmine&logoColor=f76935)
 
-Follow me
 
 
+
+### Testing Documentation
+
+- [Checklists]
+- [Test-Cases]
+- [Bug-Reports]
+- [SQL Queries]
+- [Postman Collections]
+
+### Follow Me
+[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/elenachadushkina)
