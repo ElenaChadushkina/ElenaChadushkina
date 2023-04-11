@@ -18,11 +18,10 @@
 
 ### Testing Documentation
 
-- [Checklists]
-- [Test-Cases]
-- [Bug-Reports]
-- [SQL Queries]
-- [Postman Collections]
+- [Checklists](https://github.com/ElenaChadushkina/Checklists.git)
+- [Test-Cases](https://github.com/ElenaChadushkina/Test-Cases.git)
+- [Bug-Reports](https://github.com/ElenaChadushkina/Bug-Reports.git)
+- [Postman Collections](https://github.com/ElenaChadushkina/Postman-Collections.git)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/elenachadushkina)
