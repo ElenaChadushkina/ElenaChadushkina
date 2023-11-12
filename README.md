@@ -1,4 +1,4 @@
-![Header](https://github.com/ElenaChadushkina/ElenaChadushkina/blob/main/assets/QA-engineer.jpg)
+![Header](https://github.com/ElenaChadushkina/ElenaChadushkina/blob/main/assets/QA-engineer1.jpg)
 
 
 Hi 👋 My name is Lena
