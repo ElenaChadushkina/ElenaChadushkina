@@ -1,5 +1,8 @@
-![Header](https://github.com/ElenaChadushkina/ElenaChadushkina/blob/main/assets/Elena.png)
+![Header](https://github.com/ElenaChadushkina/ElenaChadushkina/blob/main/assets/QA-engineer.jpg)
 
+
+Hi 👋 My name is Lena
+=====================
 
 ### I am an aspiring software tester, eager to thrive and develop my skills in this field. Despite being a beginner, I carry an unwavering passion for quality assurance and an enthusiastic attitude towards learning.
 
